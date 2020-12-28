@@ -1,0 +1,6 @@
+<?php
+
+echo" This is my first php file";
+echo"I am Learning php";
+echo"to develop websites";
+?>
