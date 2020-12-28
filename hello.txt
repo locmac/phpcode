@@ -1,0 +1,7 @@
+<?php
+echo" This is my first php file";
+$num1= 12;
+$num2= 10;
+$sum= num1 + num2;
+echo"Sum of two numbers is:".sum;
+?>
