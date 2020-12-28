@@ -1,0 +1,7 @@
+<?php
+echo" This is branch2";
+$num1= 12;
+$num2= 10;
+$product= num1 * num2;
+echo"Multiplication of two numbers is:".product;
+?>
